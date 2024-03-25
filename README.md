@@ -10,3 +10,6 @@
   <img align="center" alt="Bob-Vue" src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img align="center" alt="Bob-Godot" src="https://img.shields.io/badge/Godot-22396b?style=for-the-badge&logo=godot-engine&logoColor=white">
 </div>
+
+
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migalvalm)](https://github.com/anuraghazra/github-readme-stats)
