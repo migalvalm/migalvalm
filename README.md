@@ -1,6 +1,3 @@
-
-  [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migalvalm)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Bob-RB" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="Bob-JS" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
@@ -12,6 +9,16 @@
   <img align="center" alt="Bob-Vue" src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img align="center" alt="Bob-Godot" src="https://img.shields.io/badge/Godot-22396b?style=for-the-badge&logo=godot-engine&logoColor=white">
 </div>
+
+<br>
+
+<div style="display: flex flex-row">
+  
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migalvalm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Miguel's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migalvalm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 
