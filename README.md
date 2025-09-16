@@ -12,12 +12,5 @@
 
 <br>
 
-<div style="display: flex flex-row">
-
-[![Miguel's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migalvalm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-
 
 
